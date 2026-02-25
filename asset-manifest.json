@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shivani_Portfolio/static/css/main.80b087bf.css",
+    "main.js": "/Shivani_Portfolio/static/js/main.624a4de2.js",
+    "static/media/pic.jpg": "/Shivani_Portfolio/static/media/pic.49b63e1ace7a416e68d1.jpg",
+    "index.html": "/Shivani_Portfolio/index.html",
+    "main.80b087bf.css.map": "/Shivani_Portfolio/static/css/main.80b087bf.css.map",
+    "main.624a4de2.js.map": "/Shivani_Portfolio/static/js/main.624a4de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b087bf.css",
+    "static/js/main.624a4de2.js"
+  ]
+}
