@@ -3,7 +3,7 @@
   "description": "Shivani Atukuri's Software Developer Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ShivaniAtukuri",
+  "homepage":"https://shivaniatukuri.github.io/Shivani_Portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build && powershell Copy-Item -Path public/resume.pdf -Destination build/ -Force",
+    "predeploy": "npm run build && cp public/resume.pdf build/",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
